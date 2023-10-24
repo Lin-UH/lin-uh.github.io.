@@ -1,44 +1,37 @@
 ---
 title: "Datathon: Covid-19 "
 categories:
-  - Post Formats
+  - Project
 tags:
-  - image
-  - Post Formats
+  - Data Competition
 ---
-The COVID-19 Houston Datathon is an online challenge to predict the regional hospitalization and mortality patterns of COVID-19 in Houston, Texas. 
+
+<p>
+The <b>COVID-19 Houston Datathon</b> is an online challenge to predict the regional hospitalization and mortality patterns of COVID-19 in Houston, Texas. 
 This Datathon is jointly organized and sponsored by the Center for Secure Artificial intelligence For hEalthcare at the UTHealth School of Biomedical Informatics, and Data to Knowledge lab at Rice University.
-Undergraduate, master, and doctoral students from the institutes within the Gulf Coast Consortia (including UTHealth, MDACC, UH, Rice, TAMU, UTMB, IBT, and Baylor) and colleges near TMC are highly encouraged to apply. 
+</p>
 
-**HTML:**
+[//]: # ()
+[//]: # ()
+[//]: # (This theme supports **link posts**, made famous by John Gruber. To use, just add `link:https://www.kaggle.com/c/covid19houstondatathon/overview` to the post's YAML front matter and you're done.)
 
-```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg" alt="">{% endraw %}
-```
+[//]: # ()
+[//]: # (> And this is how a quote looks.)
 
-**or Kramdown:**
+Dataset and competition details can be check here [Kaggle link](https://www.kaggle.com/c/covid19houstondatathon/overview).
+UThealth host website can be check here [datathon link](https://sbmi.uth.edu/datathon/past-events/aug20.htm).
 
-```markdown
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg){% endraw %}
-```
-
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-image-9.jpg)
-
-Image that fills page content container by adding the `.full` class with:
-
-**HTML:**
-
-```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg" alt="" class="full">{% endraw %}
-```
-
-**or Kramdown:**
-
-```markdown
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg)
-{: .full}{% endraw %}
-```
-
-![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/Slide1.jpg)
-![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/Slide2.jpg)
-{: .full}
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide1.jpg)
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide2.jpg)
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide3.jpg)
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide4.jpg)
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide5.jpg)
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide6.jpg)
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide7.jpg)
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide8.jpg)
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide9.jpg)
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide10.jpg)
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide11.jpg)
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide12.jpg)
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide13.jpg)
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide14.jpg)

@@ -23,7 +23,7 @@
 - company: Multi Objects Tracking and Segmentation
   position: Communications Coordinator
   duration:   Jun, 2008  &mdash; May, 2010
-  summary: <ul class="resume-item-list"><li>With the public Multi-Objects Tracking dataset, used pre-trained segmentation models to generate and merge instance masks, and trained an appearance encoder to generate features. Performed data association between frames to generate tracklets.</li> <li>With the public Multi-Objects Tracking dataset, used pre-trained segmentation models to generate and merge instance masks, and trained an appearance encoder to generate features. Performed data association between frames to generate tracklets.</li></ul>
+  summary: <ul class="resume-item-list"><li>With the public Multi-Objects Tracking dataset, used pre-trained segmentation models to generate and merge instance masks, and trained an appearance encoder to generate features. Performed data association between frames to generate tracklets.</li> <li>The method can track and segment objects from offline video.</li></ul>
 
 # Communications Coordinator
 - company: Identify COVID-19 Lung Diseases
