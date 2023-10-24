@@ -39,5 +39,6 @@ Image that fills page content container by adding the `.full` class with:
 {: .full}{% endraw %}
 ```
 
-![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-image-10.jpg)
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/Slide1.jpg)
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/Slide2.jpg)
 {: .full}
