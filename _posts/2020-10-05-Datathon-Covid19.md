@@ -1,5 +1,5 @@
 ---
-title: "Datathon: Covid-19"
+title: "Datathon: Covid-19 "
 categories:
   - Post Formats
 tags:
