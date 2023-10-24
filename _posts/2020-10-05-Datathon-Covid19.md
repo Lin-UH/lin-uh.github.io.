@@ -21,7 +21,7 @@ This Datathon is jointly organized and sponsored by the Center for Secure Artifi
 Dataset and competition details can be check here [Kaggle link](https://www.kaggle.com/c/covid19houstondatathon/overview).
 UThealth host website can be check here [datathon link](https://sbmi.uth.edu/datathon/past-events/aug20.htm).
 
-![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide1.jpg)
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide1.JPG)
 ![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide2.jpg)
 ![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide3.jpg)
 ![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/datathon/Slide4.jpg)
