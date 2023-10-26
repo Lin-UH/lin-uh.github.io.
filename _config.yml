@@ -108,14 +108,14 @@ analytics:
 # Site Author
 author:
   name             : "Lin Bai"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I LIKE laughing!"
+  avatar           : "/images/bio-photo.jpg"
+  bio              : "Research, Programming and Basketball!"
   location         : "Houston Texas"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:lbai@cougarnet.uh.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
